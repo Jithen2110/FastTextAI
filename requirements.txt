@@ -1,0 +1,4 @@
+azure-functions
+sklearn
+pandas
+numpy
